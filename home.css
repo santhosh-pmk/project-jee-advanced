@@ -23,3 +23,6 @@ body{
 .bottom{
     text-align: center;
 }
+img[src="images/banner2.png"] {
+    width: 100%;
+}

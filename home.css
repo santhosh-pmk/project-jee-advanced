@@ -1,15 +1,25 @@
+body{
+    font-family: sans-serif;
+}
 .endsection {
     display: flex;
+    padding: 10px;
+    font-size: large;
 }
 .endsection a{
-    color: blue;
+    color: rgba(14,174,201,255);
 }
 .endsection .left{
     width: 50%;
+    padding-left: 10px;
 }
 .endsection .right{
     width: 50%;
 }
 .end{
     background-color: rgba(16,34,66,255);
+    color: white;
+}
+.bottom{
+    text-align: center;
 }

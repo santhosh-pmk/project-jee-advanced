@@ -1,9 +1,13 @@
 body{
     font-family: sans-serif;
+    margin:0%;
 }
 .startsection {
     display: flex;
     background-color: rgba(222,234,252,255);
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
 }
 .startleft {
     width: 40%;
@@ -12,6 +16,16 @@ body{
 .startcenter {
     width: 20%;
     text-align: center;
+}
+.startcenter img {
+    height: 80px;
+    width: 80px;
+}
+.logo1{
+    padding-right: 10px;
+}
+.logo2{
+    padding-left: 10px;
 }
 .startright {
     width: 40%;

@@ -1,6 +1,21 @@
 body{
     font-family: sans-serif;
 }
+.startsection {
+    display: flex;
+    background-color: rgba(222,234,252,255);
+}
+.startleft {
+    width: 40%;
+    text-align: right;
+}
+.startcenter {
+    width: 20%;
+    text-align: center;
+}
+.startright {
+    width: 40%;
+}
 .endsection {
     display: flex;
     padding: 10px;

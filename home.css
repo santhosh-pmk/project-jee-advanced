@@ -1,0 +1,15 @@
+.endsection {
+    display: flex;
+}
+.endsection a{
+    color: blue;
+}
+.endsection .left{
+    width: 50%;
+}
+.endsection .right{
+    width: 50%;
+}
+.end{
+    background-color: rgba(16,34,66,255);
+}
